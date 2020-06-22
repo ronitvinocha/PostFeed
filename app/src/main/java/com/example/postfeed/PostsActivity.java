@@ -165,6 +165,7 @@ public class PostsActivity extends AppCompatActivity implements RestAPIResponse 
             // filter your list from your input
             if(s.length()>2)
             {
+                temp.clear();
                 filter(s.toString());
             }else
             {
