@@ -3,13 +3,14 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/kindablackopacityten"
     app:layout_behavior="@string/appbar_scrolling_view_behavior">
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="16dp"
         app:layout_constraintTop_toTopOf="parent"
-        android:background="@color/kindablackopacityten"
+
         android:id="@+id/searchfield">
         <com.google.android.material.textfield.TextInputLayout
                     android:id="@+id/search_text_field"

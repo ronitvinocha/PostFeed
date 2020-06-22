@@ -6,10 +6,10 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@android:color/transparent</item>
         <item name="colorAccent">@color/colorAccent</item>
-        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowLightStatusBar">true</item>
         <!--        <item name="android:windowDisablePreview">true</item>-->
         <item name="windowNoTitle">true</item>
-        <item name="android:statusBarColor">@color/colorPrimary</item>
+        <item name="android:statusBarColor">@color/kindablackopacityten</item>
         <!--       -->
         <!--        <item name="android:actionBarDivider">@android:color/transparent</item>-->
         <!--        <item name="elevation">0dp</item>-->

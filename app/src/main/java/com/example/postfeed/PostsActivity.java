@@ -222,6 +222,7 @@ public void onRequestPermissionsResult(int requestCode, String permissions[], in
     private void uploadtofirebaase() {
         try {
             MainActivity.hideKeyboard(this);
+            caption.setText("");
             showLoader();
             storage=FirebaseStorage.getInstance();
              storageReference=storage.getReference();
@@ -430,7 +431,8 @@ public void onRequestPermissionsResult(int requestCode, String permissions[], in
     public void onBackPressed() {
         if(addPostBottomsheet.getState()==BottomSheetBehavior.STATE_EXPANDED)
         {
-            addPostBottomsheet.setState(BottomSheetBehavior.STATE_COLLAPSED);
+            addPostBottomsheet.setState(BottomSheetBehavior.STATE_HIDDEN);
+            caption.setText("");
         }
         else
         {
