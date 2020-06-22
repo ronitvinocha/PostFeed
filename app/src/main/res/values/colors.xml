@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryateighty">#CCFF5722</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="kindablack">#222222</color>
+    <color name="kindablackopacitysixty">#99222222</color>
+    <color name="kindablackopacityfourty">#66222222</color>
+    <color name="kindablackopacityten">#1A222222</color>
+     <color name="errorcolor">#ff3f6c</color>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "761095551812",
+    "firebase_url": "https://onicares-f9153.firebaseio.com",
+    "project_id": "onicares-f9153",
+    "storage_bucket": "onicares-f9153.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761095551812:android:24695a53f022a10d65b511",
+        "android_client_info": {
+          "package_name": "com.example.postfeed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761095551812-s5k2sfbuqr9c8kijoq1mc94hoc54dv1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.postfeed",
+            "certificate_hash": "ef61dfe14835b14301597c8773f438f6c7d0b02b"
+          }
+        },
+        {
+          "client_id": "761095551812-6llhtc41qi6dvs03q0ork7m8tdtvmfj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBS6MpNzmNrBDkrSKXt7vSaloP1zzIwcuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761095551812-6llhtc41qi6dvs03q0ork7m8tdtvmfj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
